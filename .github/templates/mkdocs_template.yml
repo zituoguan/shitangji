@@ -1,8 +1,8 @@
-site_name: How To Cook
+site_name: 食堂记
 
 # Repository
-repo_name: Anduin2017/HowToCook
-repo_url: https://github.com/Anduin2017/HowToCook
+repo_name: zituoguan/shitangji
+repo_url: https://github.com/zituoguan/shitangji
 edit_uri: ""
 
 use_directory_urls: true

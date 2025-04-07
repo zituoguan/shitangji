@@ -1,10 +1,10 @@
 {
-  "name": "how-to-cook",
-  "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).",
+  "name": "shitangji",
+  "description": "在家做饭方法指南。Guide about how to cook at home (Chinese).",
   "version": "1.4.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anduin2017/HowToCook.git"
+    "url": "git+https://github.com/zituoguan/shitangji.git"
   },
   "keywords": [
     "recipes",
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/Anduin2017/HowToCook/issues"
   },
-  "homepage": "https://cook.aiursoft.cn",
+  "homepage": "https://shitangji.com",
   "dependencies": {
     "textlint": "^12.1.0",
     "textlint-rule-ja-space-between-half-and-full-width": "^2.2.0",
