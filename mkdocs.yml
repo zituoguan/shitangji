@@ -82,12 +82,9 @@ plugins:
 
 nav:
   - README.md
-  - 做菜之前:
-{{before}}
+  - 做菜之前: tips/厨房准备.md
   - 菜谱:
-    - 按种类: # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
-{{main}}
-  - 进阶知识学习:
-{{after}}
+    - 按种类: dishes/vegetable_dish/拔丝土豆/拔丝土豆.md # 只有两层section以上才能出现navigation expansion https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections
+  - 进阶知识学习: tips/advanced/辅料技巧.md
   - CONTRIBUTING.md
   - CODE_OF_CONDUCT.md
